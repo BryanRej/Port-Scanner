@@ -1,7 +1,7 @@
 <h1>Port Scanner</h1>
 
 <h2>Description</h2>
-The project simulates an routine nmap scan of a disired targets ip address with a user switches of choice.
+The project simulates a routine Nmap scan of a desired target's IP address with a user choice of scanning options.
 <br />
 
 
